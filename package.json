@@ -1,0 +1,10 @@
+{
+  "name": "automait-pushbullet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "lodash.findwhere": "^3.1.0",
+    "pushbullet": "^1.4.3"
+  }
+}
