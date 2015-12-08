@@ -1,7 +1,7 @@
 module.exports = init
 
 var PushBulletApi = require('pushbullet')
-  , findWhere = require('lodash.findWhere')
+  , findWhere = require('lodash.findwhere')
 
 function init(callback) {
   callback(null, 'pushbullet', PushBullet)
