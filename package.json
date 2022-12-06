@@ -5,6 +5,6 @@
   "license": "ISC",
   "dependencies": {
     "lodash.findwhere": "^3.1.0",
-    "pushbullet": "^1.4.3"
+    "pushbullet": "^3.0.0"
   }
 }
